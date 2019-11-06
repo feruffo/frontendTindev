@@ -1,3 +1,3 @@
 # frontendTindev
-Projeto feito em React para estudo, baseado no tinder.
+Projeto feito em React para estudo, baseado na rede social Tinder.
 ![](tindev.gif)
